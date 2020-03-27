@@ -33,7 +33,7 @@ If you want to use different settings
 
 The windows executable ` getdailyecdc.exe ` is built from ` getdailyecdc.py ` you can check it's virus-free status at [jotty's page](https://virusscan.jotti.org/en-US/filescanjob/1xzi4o68p0) or you can check the result of the query [here](https://github.com/hyperrixel/COVID19CasesWorldwideDatasetFromECDC/blob/master/virus_free_proof.jpg).
 
-The executable accepts comand-line parameters.
+The executable accepts command-line parameters.
 
 #### Command-line parameters
 
