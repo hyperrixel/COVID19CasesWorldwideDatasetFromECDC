@@ -18,7 +18,7 @@ Simpla paste the file ` ecdcloader.py ` into your working directory and add ` im
 
 #### As script
 
-Simply run ` ecdcloader.py ` and you'll get the freshest file.
+Simply run ` ecdcloader.py ` and you'll get the newest file.
 
 #### Fine tuning
 
