@@ -1,0 +1,10 @@
+# Library dependencies for the COVID-19-data-from-ECDC project
+# You have to install these libraries, before you can run the code:
+# 'pip install -r requirements.txt'
+
+# Standard library dependencies:
+# datetime
+# requests
+
+# Neccesary to handle xlsx loading into variable
+pandas>=1.0.3
