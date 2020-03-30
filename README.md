@@ -44,6 +44,8 @@ The executable accepts command-line parameters.
 - ` -t TRIES ` ` --try-limit TRIES ` Sets count of download try-limits Default is ` 3 `. Use higher value in case of very bad connection circumstances.
 - ` -v ` ` --version ` Shows program's version number and exits
 
+![Screenshot - ommand line parameters in real life](ecdc-data.png)
+
 ## Future plans
 
 Support of other filetypes: ` csv ` ` xml ` ` json `
